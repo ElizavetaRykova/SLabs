@@ -1,5 +1,4 @@
 from enum import Enum
-from sre_parse import State
 
 
 class States(Enum):
